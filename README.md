@@ -27,18 +27,17 @@ Each tool has its own dedicated documentation PDF inside the `/docs` folder.
 ## 📁 Folder Structure
 
 ```
-├── docs/
-│   ├── Wifite_Ultimate_Kali_Guide.pdf
-│   ├── Aircrack-ng_Complete_Guide.pdf
-│   ├── Kismet_Documentation.pdf
-│   ├── Wireshark_Tshark_DeepDive.pdf
-│   ├── Bettercap_Guide.pdf
-│   ├── Fluxion_WPA_Phishing_Guide.pdf
-│   ├── Reaver_vs_Bully_Guide.pdf
-│   ├── MDK4_Attacks_Explained.pdf
-│   ├── Hcxdumptool_Hashcat_AttackFlow.pdf
-│   ├── Rogue_AP_Setup.pdf
-│   └── Python_Wireless_Sniffers.pdf
+│├── Wifite_Ultimate_Kali_Guide.pdf
+│├── Aircrack-ng_Complete_Guide.pdf
+│├── Kismet_Documentation.pdf
+│├── Wireshark_Tshark_DeepDive.pdf
+│├── Bettercap_Guide.pdf
+│├── Fluxion_WPA_Phishing_Guide.pdf
+│├── Reaver_vs_Bully_Guide.pdf
+│├── MDK4_Attacks_Explained.pdf
+│├── Hcxdumptool_Hashcat_AttackFlow.pdf
+│├── Rogue_AP_Setup.pdf
+│└── Python_Wireless_Sniffers.pdf
 ├── README.md
 ```
 
