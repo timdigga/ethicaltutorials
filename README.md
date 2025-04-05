@@ -10,17 +10,17 @@ Each tool has its own dedicated documentation PDF inside the `/docs` folder.
 
 | Tool         | Description                                  | Docs Available |
 |--------------|----------------------------------------------|----------------|
-| **Wifite 2** | Automated Wi-Fi attack tool for WPA/WPS/PMKID | ✅             |
-| **Aircrack-ng** | Full suite for packet capture and key cracking | ✅             |
-| **Kismet**   | Wireless network detector/sniffer             | ✅             |
-| **Wireshark**| GUI and CLI packet analysis (tshark)          | ✅             |
-| **Bettercap**| MITM tool for real-time attacks & spoofing    | ✅             |
-| **Fluxion**  | Social engineering-based WPA phishing attack  | ✅             |
-| **Reaver/Bully** | WPS PIN brute forcing utilities             | ✅             |
-| **MDK3/MDK4**| Advanced wireless DoS attacks                 | ✅             |
-| **Hcxdumptool + Hashcat** | PMKID/handshake capture and GPU cracking | ✅          |
-| **Rogue APs** | Hostapd-wpe, EvilAP, Airbase-ng               | ✅             |
-| **Python/Scapy Scripts** | Custom wireless attacks and sniffers      | ✅             |
+| **Wifite 2** | Automated Wi-Fi attack tool for WPA/WPS/PMKID | ❌             |
+| **Aircrack-ng** | Full suite for packet capture and key cracking | ❌             |
+| **Kismet**   | Wireless network detector/sniffer             | ❌             |
+| **Wireshark**| GUI and CLI packet analysis (tshark)          | ❌             |
+| **Bettercap**| MITM tool for real-time attacks & spoofing    | ❌             |
+| **Fluxion**  | Social engineering-based WPA phishing attack  | ❌             |
+| **Reaver/Bully** | WPS PIN brute forcing utilities             | ❌             |
+| **MDK3/MDK4**| Advanced wireless DoS attacks                 | ❌             |
+| **Hcxdumptool + Hashcat** | PMKID/handshake capture and GPU cracking | ❌          |
+| **Rogue APs** | Hostapd-wpe, EvilAP, Airbase-ng               | ❌             |
+| **Python/Scapy Scripts** | Custom wireless attacks and sniffers      | ❌             |
 
 ---
 
@@ -89,4 +89,4 @@ Feel free to fork and submit PRs if you want to expand or improve any guide. Let
 
 For questions, feedback, or collaboration:
 - GitHub: [@timdigga](https://github.com/timdigga)
-- Issues tab: [Submit a new issue](https://github.com/timdigga/your-repo-name/issues)
+- Issues tab: [Submit a new issue](https://github.com/timdigga/your-repo-name/issues)✅
